@@ -5,7 +5,7 @@
 #### 神经网络常用模型：
 RNN系列,  CNN系列，attention系列,  CRF等序列标注,  Tensor Network与ABCNN一系列match模型；
 #### 概率语言模型：
-高斯, LDA, Random walk, Word2vec, Glove, Fasttext, Deepwalk, LINE, Node2vec等一类概率模型以及采样方法(Gibbs sampling)等；
+高斯, LDA, Random walk, Word2vec, Glove, Fasttext, Deepwalk, LINE, Node2vec等一类概率模型以及采样方法(Gibbs sampling,负采样)等；
 #### 常用机器学习模型：
 树形结构（C4.5, ID3）, SVM; EM; RF, Adaboost, GBDT, Xgboost, LightGBM等集成模型；bagging，stacking, boosting 等模型集成思想；
 #### 数据结构基本算法：
